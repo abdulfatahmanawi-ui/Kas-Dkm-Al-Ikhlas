@@ -1,0 +1,6 @@
+{
+  "name": "KAS DKM AL IKHLAS",
+  "description": "Sistem Informasi & Manajemen Keuangan Kas Masjid DKM Al Ikhlas, Dusun Pokek RW 004, Desa Kawunganten, Kecamatan Cikaum, Kabupaten Subang.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
